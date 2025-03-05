@@ -1,6 +1,6 @@
 # Lung Disease Prediction from Chest X-Ray (CXR) using Convolutional Neural Network
 
-This repository is for our B.Tech major project. This repository contains a Convolutional Neural Network (CNN) model for predicting lung diseases from medical images. The CNN is trained on a labeled dataset of lung images to classify the presence of different lung diseases.
+This repository contains a Convolutional Neural Network (CNN) model for predicting lung diseases from medical images. The CNN is trained on a labeled dataset of lung images to classify the presence of different lung diseases.
 
 # Table of Contents
 1.) Introduction<br>
